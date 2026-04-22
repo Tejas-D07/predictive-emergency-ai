@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Emergency AI",
+  "description": "A real-time intelligent safety monitoring system that detects danger using audio, motion, and contextual signals, and automatically escalates emergencies.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": []
+}
